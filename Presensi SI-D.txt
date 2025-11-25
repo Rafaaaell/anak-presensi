@@ -1,3 +1,4 @@
 Nama : Rizal
 Domisili : singapur
 Gaji : 3 digit
+Kerja : Makan
